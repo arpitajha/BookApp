@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "696799810535",
+    "firebase_url": "https://collegeolx-b13ea.firebaseio.com",
+    "project_id": "collegeolx-b13ea",
+    "storage_bucket": "collegeolx-b13ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696799810535:android:5b8803254b41316286e342",
+        "android_client_info": {
+          "package_name": "com.example.anew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696799810535-qd8gnd672muumc8b5edtl1h2rs6nmu48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anew",
+            "certificate_hash": "c111cb3502a63e6589a8d5148b9e22532a92f5d5"
+          }
+        },
+        {
+          "client_id": "696799810535-6adcebnl6ma8mi1ac9lcvbsqrl52qplc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh8cLohhJr2pIGh32nID3WXIBDrq9iE-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696799810535-6adcebnl6ma8mi1ac9lcvbsqrl52qplc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
